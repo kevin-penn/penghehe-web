@@ -26,7 +26,7 @@ jobs:
       - name: Deploy by rsync
         run: |
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
-          chmod 600 ./deploy_key
+          chmod 400 ./deploy_key
           rsync -chrlvzi --delete \
              -e 'ssh -i ./deploy_key' \
             ./dist/ ${{ secrets.DEST_PATH }}
