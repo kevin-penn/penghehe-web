@@ -40,7 +40,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 禅宗在一花一笑间诞生了。
 
 
-无有功德 
+#### 无有功德 
 
 菩提达磨来到中国，梁武帝请他到金陵问道。
 
@@ -62,7 +62,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 悟道为的是此生能成为身心的真正主人，而不是为了来世的生意投资。
 
-禅是什么？ 
+#### 禅是什么？ 
 
 禅不是宗教，不是哲学，
 
@@ -76,7 +76,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 举心即错，拟议即乖。
 
-禅是生命的态度 
+#### 禅是生命的态度 
 
 禅是看清世间之后，真正认识自己。
 
@@ -88,7 +88,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 问题在于我们能不能体会。
 
-参禅不只是打坐 
+#### 参禅不只是打坐 
 
 有位名叫薛简的官员问六祖慧能说：“京城参禅的大德们都说，觉悟必须要坐禅习定。请问大师有什么高见？”
 六祖慧能回答说：“道由心悟，岂在坐也？”
@@ -101,7 +101,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 参禅悟道要能觉悟出真心本性，才能进入禅的境界里。
 
-禅即是离一切相 
+#### 禅即是离一切相 
 
 习禅并不是要向外求取，
 
@@ -111,7 +111,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 六祖慧能回答说：“前念不生即心，后念不灭即佛。成一切相即心，离一切相即佛。”
 
-藉教悟宗 
+#### 藉教悟宗 
 
 禅是透过佛陀的教导，
 
@@ -131,7 +131,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 见性成佛。
 
-不立文字 
+#### 不立文字 
 
 六祖慧能说：“迷人口念，智者心行。”
 
@@ -153,7 +153,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 禅宗讲求实践而不重视言说，禅并不依据固定的佛教经论。
 
-教外别传 
+#### 教外别传 
 
 禅宗是经论言教以外的另一支传承，
 
@@ -165,7 +165,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 直接传承佛陀的心髓达至开悟。
 
-直指人心 
+#### 直指人心 
 
 内见自性不动，名为禅。
 
@@ -179,7 +179,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 禅，是用自己的心勇敢面对生命。
 
-见性成佛 
+#### 见性成佛 
 
 心性本净、佛性本有、
 
@@ -199,7 +199,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 即是抵达寂静彼岸的佛。
 
-生命即是无穷当下的积累 
+#### 生命即是无穷当下的积累 
 
 禅：
 
@@ -215,7 +215,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 此时、此地、此刻、当下、刹那、瞬间！
 
-禅 定 
+#### 禅 定 
 
 弟子问：“何名为坐禅？”
 
@@ -255,7 +255,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 禅者的心像一面镜子，永远只反映当下现前。
 
-禅说了什么？ 
+#### 禅说了什么？ 
 
 如果你问：“禅说什么？”
 
@@ -279,7 +279,7 @@ heroImage: '/imgs/posts/2025/kindle-the-dawn-within-zen.jpg'
 
 开悟者没有一个期待的自己，他只是无我地融入变化。
 
-不受世间污染 
+#### 不受世间污染 
 
 佛陀说：
 
