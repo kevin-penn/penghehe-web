@@ -1,0 +1,36 @@
+name: Build and Deploy
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create .env file
+        run: |
+            cat << EOF > .env.production
+            ${{ secrets.PROD_ENV_CONTENT }}
+            EOF
+        shell: bash
+        env:
+          PROD_ENV_CONTENT: ${{ secrets.PROD_ENV_CONTENT }}
+      
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.x'
+      - run: yarn install && yarn build
+
+      - name: Deploy by rsync
+        run: |
+          echo "${{secrets.DEPLOY_KEY}}" > deploy_key
+          chmod 600 ./deploy_key
+          rsync -chrlvzi --delete \
+             -e 'ssh -i ./deploy_key' \
+            ./dist/ ${{ secrets.DEST_PATH }}
+
+
+
+      

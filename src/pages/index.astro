@@ -1,0 +1,40 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={SITE_TITLE + ' - ' + SITE_DESCRIPTION} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h5>🧑‍🚀 你好, 朋友!</h5>
+			<p>
+				欢迎来到“彭呵呵”的网络世界。这是我正在建设的个人网站，我想在这里分享我的一些随笔和生活中感兴趣的事情。并计划开发一个“讨论”频道来为有需要的人提供讨论空间。
+			</p>
+			<p>
+				为什呢不使用大厂的文章和博客平台呢？嗯...我想主要原因是“Vendor Lock-in”，那些倒闭的平台以及随时可能出现的“封号”。所以索性还是自己维护比较妥当。另一个原因是格式的问题，通常博客网站都是富文本，这不是一个友好、好维护的格式，虽然有Github Page这样的平台，但是它所提供的网络服务并不稳定，因此自建是一个更好的选择。
+			</p>
+			<p>📅我计划本网站的演进路径如下🗺️:</p>
+			<ul>
+				<li>发布超过200篇随笔；</li>
+				<li>开放爬虫文章排名和文章搜索功能；</li>
+				<li>生活频道首次开放，推荐100部电影；</li>
+				<li>开放评论功能，支持实名&匿名评论；</li>
+				<li>开放讨论模块，支持匿名会议讨论；</li>
+			</ul>
+			<p>
+				希望你能在这里找到你想要的讯息。🆕
+			</p>
+			<p>
+				🚀🚀🚀让我们在未来，一起遇见更好的自己。👍
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
